@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/102160058_16T1_BT02/Matrix.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/102160058_16T1_BT02/Polynomial.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/102160058_16T1_BT02/Vecto.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/102160058_16T1_BT02/main.cpp
+iostream
+-
+Vecto.h
+C:/Users/dell/CLionProjects/102160058_16T1_BT02/Vecto.h
+Matrix.h
+C:/Users/dell/CLionProjects/102160058_16T1_BT02/Matrix.h
+Polynomial.h
+C:/Users/dell/CLionProjects/102160058_16T1_BT02/Polynomial.h
+
